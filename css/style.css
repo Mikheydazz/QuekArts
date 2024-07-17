@@ -62,10 +62,16 @@ main{
     margin: 0 auto;
     border: none;
     background-color: #ee864c;
-    width: 20%;
+    width: 100%;
+}
+.switchBtn{
+    width: 30%;
+    position: absolute;
+    left: 35%;
+    bottom: 0;
 }
 .down{
-    width: 10%;
+    width: 40%;
     height: 10px;
     background-color: #e87343;
     margin: 0 auto;
